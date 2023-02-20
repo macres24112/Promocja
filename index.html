@@ -1,0 +1,382 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>I LO Brodnica</title>
+	
+	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:400,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+	
+	<div id="container">
+	
+		<div id="logo">
+			ZOSTAŃ FILOMATĄ!🎓
+		</div>
+			
+		
+		<div id="topbar">
+			<div id="topbarL">
+				<img src="max1920x1920trifx9b718571f27f07ca_big_logo1.png" />
+			</div>
+			<div id="topbarR">
+				<span class="bigtitle">Dlaczego akurat my?</span>
+				<div style="height: 0px;"></div>
+					<p>I Liceum Ogólnokształcące im. Filomatów Ziemi Michałowskiej w Brodnicy to szkoła z tradycjami i wieloletnim doświadczeniem w kształceniu młodzieży. Naszym celem jest zapewnienie uczniom jak najlepszej edukacji, która pozwoli im na osiągnięcie sukcesów zarówno w dalszej nauce, jak i w życiu.
+					Dbamy o to, aby nasza oferta edukacyjna była jak najbardziej atrakcyjna i odpowiadała potrzebom i oczekiwaniom wszystkich uczniów. Nasi nauczyciele to wykwalifikowana kadra, która zawsze jest gotowa do pomocy i wsparcia.</p>			</div>
+			<div style="clear:both;"></div>
+		</div>
+		
+		<div id="sidebar">
+			<div class="optionL"><a href="#about">O szkole</a></div>
+			<div class="optionL"><a href="#offer">Oferta</a></div>
+			<div class="optionL"><a href="#grono">Nauczyciele</a></div>
+			<div class="optionL"><a href="#dyr">Dyrektorzy</a></div>
+			<div class="optionL"><a href="#izba">Tradycje szkoły</a></div>
+			<div class="optionL"><a href="#sport">Sport w szkole</a></div>
+			<div class="optionL"><a href="#footer">Kontakt</a></div>
+		</div>
+		
+		<div id="content">
+			<span class="bigtitle">O naszej szkole</span>
+			
+			<div class="dottedline"></div>
+			<section id="about">
+	  
+		
+		<iframe width="727" height="409" src="https://www.youtube.com/embed/aod4Amot5zU" title="Film promocyjny I LO w Brodnicy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <p>
+		I  Liceum Ogólnokształcące im. Filomatów Ziemi Michałowskiej liczy 20 oddziałów, do których uczęszcza obecnie 505 uczniów.
+		</p>
+		<p>
+		<b>I LO w liczbach:</b>
+<ul>
+<li>liczba uczniów-505, w tym:</li>
+<ul>
+	<li>dziewcząt:  341</li>
+	<li>chłopców:  164</li>
+</ul>
+<br>
+<li>liczba oddziałów: 20</li>
+<br>
+<li>liczba nauczycieli-58, w tym:</li>
+<ul>
+<li>kobiet:  40</li>
+<li>mężczyzn: 18</li>
+<br>
+</ul>
+<li>liczba pracowników administracyjnych i obsługi: 29</li>
+<li>powierzchnia użytkowa budynku szkoły: 3997 m2</li>
+<br>
+<li>Liczba sal lekcyjnych-35, w tym:</li>
+<ul>
+<li>dwie sale komputerowe</li>
+<li>laboratoria językowe</li>
+<li>33 klasopracownie wyposażone w sprzęt multimedialny</li>
+</ul>
+
+	  </ul>
+	  
+	  
+	 <br><br>
+	 
+	 <b>Ponadto w I LO znajduje się:</b>
+<ul>
+<li>centrum informacji naukowej i biblioteka
+<li>laboratorium językowe
+<li>strzelnica
+<li>aula na 500 miejsc
+<li>sala gimnastyczna
+<li>sala fitness
+<li>siłownia
+<li>izba tradycji
+<li>radiowęzeł
+<li>kawiarenka szkolna
+</ul>
+
+	  </section>
+			
+			
+			
+			
+			<br><br><br><br>
+			
+			
+			<span class="bigtitle">Oferta edukacyjna</span>
+			
+			<div class="dottedline"></div>
+			<section id="offer">
+	  
+		
+        
+			
+		  <div align="center"><img src="eduresized_01(1).jpg" width="600" height="300"></div>
+		  <div align="center"><img src="eduresized_02.jpg" width="600" height="300"></div>
+		  <div align="center"><img src="eduresized_03.jpg" width="600" height="300"></div>
+		  <div align="center"><img src="eduresized_04.jpg" width="600" height="300"></div>
+      </section>
+			<br><br><br><br>
+			
+			
+			<span class="bigtitle">Nauczyciele</span>
+			
+			<div class="dottedline"></div>
+			<section id="grono">
+			<ul>
+			<li>Katarzyna Boba
+
+<li>Katarzyna Boińska
+
+<li>Elżbieta Brzezicka-Pruchińska
+
+<li>Miłosz Bzowy
+
+<li>Anna Chmarzyńska
+
+ <li>Iwona Czupryńska-Kaliszewska
+
+ <li>Anna Ćwiklińska
+
+ <li>Lucyna Domeracka
+
+ <li>Bernadeta Dukat
+
+ <li>Wiesława Frankowska
+
+ <li>Marlena Gierszewska
+
+ <li>Sławomir Gulczyński
+<li>
+ Marta Jamroży
+<li>
+ Iwona Janiszewska
+<li>
+ Adam Kaczmarek
+<li>
+ Paulina Kalinowska-Willmann
+<li>
+ Renata Kamińska
+<li>
+ Katarzyna Karska
+<li>
+ Arkadiusz Kłosowski
+<li>
+ Mateusz Kłosowski
+<li>
+ Marcin Kołodziejski
+<li>
+ Mirosława Kowalska
+<li>
+ Maciej Kozłowski
+<li>
+ Anna Kwaśniewska
+<li>
+ Krystyna Kwintal
+<li>
+ Piotr Lendziński
+<li>
+ Adam Lewandowski
+<li>
+ks. Paweł Lewandowski
+<li>
+ Wojciech Lisicki
+<li>
+ Dorota Lisowska
+<li>
+ Wiesław Łupina
+<li>
+ Marzena Łupińska
+<li>
+ Anita  Małkowska
+<li>
+ Arkadiusz Nagórski
+<li>
+ Beata Nijakowska
+<li>
+ Małgorzata Pawłowska
+<li>
+ Joanna Pąk
+<li>
+ Milena Pieróg
+<li>
+ Jolanta Piotrowska
+<li>
+ Justyna Pniewska
+<li>
+ Danuta Przybylska
+<li>
+ Monika Puc
+<li>
+ Anna  Radomska
+<li>
+ Magdalena Rogowska
+<li>
+ Paweł Roszak
+<li>
+ Anna Rumińska
+<li>
+ Marta Sarnowska
+<li>
+ Maria Skorupka
+<li>
+ Andrzej Sobiechowski
+<li>
+ Krystyna Tomasz
+<li>
+ Tomasz Wardowski
+<li>
+ Izabela  Wierzchowska
+<li>
+ Ewa Wiśniewska
+<li>
+ Lech Witkowski
+<li>
+ Hanna Wódka
+<li>
+ Jakub Zakrzewski
+<li>
+ Wojciech Zembrzycki
+<li>
+ Agnieszka Ziółkowska
+<li>
+ Justyna Zubowicz
+<li>
+ Ilona Zwierzchlewska
+<li>
+ Dorota Żmijewska
+ </li>
+</ul>
+			</section>
+			
+			
+			<span class="bigtitle">Dyrekcja</span>
+			
+			<div class="dottedline"></div>
+			<section id="dyr">
+			
+			
+			<figure class="photo">
+			<img src="f3b048156eb84599b5ea280b53c07c921.webp"
+			width="280" height="400"
+				alt="Wiesław Łupina">
+			<figcaption>
+			Wiesław Łupina
+			</figcaption>
+			</figure>
+				
+				<br><br>
+				
+			<figure class="photo">
+			<img src="bc177aff88e04820a84c0f5dde2f60271.webp"
+			width="280" height="400"
+			alt="Anna Rumińska">
+			<figcaption>
+			Anna Rumińska
+			</figcaption>
+			</figure>
+			<br><br>
+			
+			
+			
+			<figure class="photo">
+			<img src="bc177aff88e04820a84c0f5dde2f602711.webp"
+			width="280" height="400"
+			alt="Piotr Lendziński">
+			<figcaption>
+			Piotr Lendziński
+			</figcaption>
+			</figure>
+			</section>
+			
+			<br><br><br><br>
+			<span class="bigtitle">Tradycje szkoły</span>
+			
+			<div class="dottedline"></div>
+			<section id="izba">
+			<h1><b>Izba tradycji</b></h1>
+			Izba Tradycji I LO im. Filomatów Ziemi Michałowskiej w Brodnicy to wyjątkowe miejsce,
+			gdzie można przenieść się w czasie i dowiedzieć się o historii naszej szkoły. W Izbie Tradycji znajdują się ciekawe eksponaty,
+			takie jak stare zdjęcia, dokumenty i sprzęty szkolne, które przypominają o dawnych czasach.
+			Można zobaczyć, jak wyglądała szkoła przed laty i jak zmieniała się na przestrzeni lat.
+			
+			<br><br>
+			<iframe width="640" height="360" src="https://www.youtube.com/embed/rvimt-4Bmvo" title="Izba Tradycji I LO w Brodnicy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			
+			<br><br>
+			<h1><b>Różyczkowanie</b></h1>
+			<p>"Różyczkowanie" to największa tradycja I LO w Brodnicy, sięgająca historią do początków istnienia szkoły. Różyczki otrzymują absolwenci, którzy zdali maturę. </p>
+			<div align="center">
+			<img src="https://cloud-3.edupage.org/cloud?z%3AqSSl3qOG%2FsEeyarD2tr8MFTuznO9yqyPKUDhanWpxhriySlWcdenuE9tGKQLHT9G" width="380" height="250">
+			
+			
+			
+	<br><br><br><br><br><br>
+			<span class="bigtitle">Sport w naszej szkole</span>
+			
+			<div class="dottedline"></div>
+			<section id="sport">
+			 <div align="center">
+			<p><img src="55ee8c08e922c_o_medium.webp" width="250" height="212"/><img src="331920993_560697652788032_2351633713304894446_n.jpg" width="250" height="212"/><img src="331713640_2987584121377478_8511853426768242172_n.jpg " width="250" height="212"/></p>
+			<br>
+			<div align="left">
+			<p>Nasza szkoła posiada doskonale wyposażoną siłownię oraz halę sportową, gdzie możesz trenować i rozwijać swoje umiejętności sportowe. Ponadto oferujemy także zajęcia fitness, dzięki którym możesz utrzymać formę i poprawić swoją kondycję.
+</p>
+<p>W I LO każdy uczeń ma możliwość wyboru sekcji na lekcjach wychowania fizycznego. Dzięki temu możesz rozwijać się w wybranej dziedzinie sportu, a także przeżyć wiele niezapomnianych chwil.
+</p>
+<p>Nasza kadra nauczycielska to doświadczeni trenerzy oraz instruktorzy, którzy zawsze chętnie pomogą i doradzą w kwestiach związanych z treningiem i rozwojem sportowym.</p>
+			</section>
+			
+			
+			</div>
+			
+			
+		
+			
+			
+</div>			
+		
+		<div id="footer">
+			
+			<div>
+			
+			
+			<div align="center">
+			<h2>
+        <h5>Kontakt</h5>
+		<p>
+		<div align="center"><h6>
+        <p>Jeśli masz pytania dotyczące naszej szkoły lub chcesz się z nami skontaktować, wypełnij poniższy formularz. <br> Odpowiemy na Twoje pytanie tak szybko, jak to będzie możliwe.</p>
+<form action="mailto:maciej.reszka2018@gmail.com" method="post" enctype="text/plain">
+<label for="name">Imię i nazwisko:</label>
+<input type="text" id="name" name="name" required>
+<br><br>
+<label for="email">Adres e-mail:</label>
+<input type="email" id="email" name="email" required>
+<br><br>
+<label for="message">Treść pytania:</label>
+<textarea id="message" name="message" rows="1" required></textarea>
+<br><br>
+<input type="submit" value="Wyślij">
+</form>
+			
+			
+			</h3>
+			
+		</div>
+	📨 sekretariat@1lobrodnica.pl<br>
+☎ 0-56 4982016<br>
+📍 I Liceum Ogólnokształcące, 87-300 Brodnica, ul. Lidzbarska 14<br>
+
+
+Poland<br>
+	</p>
+	
+
+	</div>
+	
+</body>
+</html>
